@@ -1,0 +1,27 @@
+[{
+        "name": "Narración de Ficción",
+        "code": "COM122",
+        "about": "El curso es una introducción a los relatos de ficción tanto literarios como cinematográficos."
+    },
+    {
+        "name": "Taller de Infografía",
+        "code": "COM809",
+        "about": "En este curso los estudiantes adquirirán herramientas para la representación visual de un hecho o noticia a través de una infografía. A su vez el alumno aprenderá a utilizar metodologías para desarrollar proyectos gráficos, diagramas, ilustraciones, entre otros, que faciliten el entendimiento del lector."
+    },
+    {
+        "name": "Lenguaje Visual",
+        "code": "COM115",
+        "about": "El curso busca dar a entender el proceso biológico de la lectura de la imagen en la comunicación. Asimismo, valorar la importancia de la estructura perceptible humana en los procesos de comunicación del área de comunicación visual, incorporando criterios de organización como lenguaje significativo."
+    },
+    {
+        "name": "Dibujo de Croquis y Boceto",
+        "code": "ARO103D",
+        "about": "En este curso los estudiantes desarrollarán habilidades de observación y técnicas de representación gráfica, por medio del dibujo de croquis y boceto a partir de diferentes modelos. Los trabajos serán evaluados de manera continua, reforzando el proceso individual de cada estudiante, a partir de trabajo en taller y en espacios exteriores."
+    },
+    {
+        "name":"Arte y Patrimonio",
+        "code":"ARO105C",
+        "about":"El curso, de carácter teórico-práctico, está dirigido al conocimiento, análisis y reflexión del patrimonio artístico como manifestación material de la memoria de la sociedad, comprendiendo su interdependencia con el contexto de su creación y apreciación. Se realizarán clases expositivas con material audiovisual y se estudiarán diversos textos que aborden los casos de estudio. Este proceso se evaluará formativamente de manera continua y se calificará mediante la aplicación de pruebas y ensayos, individuales y grupales."
+
+    }
+]
